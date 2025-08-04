@@ -22,4 +22,25 @@ body {
   padding: 20px;
   text-align: center;
 }
+.profile-img {
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.sidebar h1 {
+  font-size: 24px;
+}
+
+.sidebar p {
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+.contact-info {
+  list-style: none;
+  font-size: 14px;
+  margin-top: 20px;
+  text-align: left;
+}
 
